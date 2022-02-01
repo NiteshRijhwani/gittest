@@ -1,7 +1,7 @@
 line 1
 
 line 3
-line 4
-
+MASTER line 1
+MASTER line 2
 
 line 5
