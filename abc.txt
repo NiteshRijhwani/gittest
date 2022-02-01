@@ -1,4 +1,7 @@
 line 1
+DEV line 2
 MASTER line 2
 line 3
+DEV line 4
 MASTER line 4
+DEV line 5
